@@ -1,0 +1,22 @@
+{
+  "name": "francisjs2",
+  "version": "1.0.0",
+  "description": "I created this app in order to go through Francis Fulgencio's Js overview.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WinserEX/RepasoJs.git"
+  },
+  "keywords": [
+    "Francis"
+  ],
+  "author": "Winser Espinal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WinserEX/RepasoJs/issues"
+  },
+  "homepage": "https://github.com/WinserEX/RepasoJs#readme"
+}
